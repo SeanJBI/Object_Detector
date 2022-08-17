@@ -2,7 +2,7 @@ import cv2
 
 thres = 0.5 #Threshold to detect objects;)
 
-# img = cv2.imread(r"C:\Users\Personal use\PycharmProjects\Object_Detector\person.jpg",-1)
+# img = cv2.imread(r"C:\Users\Personal use\Desktop\person.jpg")
 
 cap = cv2.VideoCapture(0)
 cap.set(3,640)
